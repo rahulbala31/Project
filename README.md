@@ -1,11 +1,9 @@
-# Project
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 // Book class represents a book in the library
+
 class Book {
     private String title;
     private String author;    
